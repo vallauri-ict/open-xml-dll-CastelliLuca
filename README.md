@@ -3,6 +3,6 @@
 
 ## classi utlizzate:
 > ClsOpenXmlUtilities.cs
-> DocumentFormat
+DocumentFormat
 
 # Autore:CastelliLuca
