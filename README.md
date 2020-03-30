@@ -2,7 +2,6 @@
 > Progetto per la gestione e la creazione di un documento word
 
 ## classi utlizzate:
-> ClsOpenXmlUtilities.cs
-DocumentFormat
+> ClsOpenXmlUtilities.cs, DocumentFormat
 
 # Autore:CastelliLuca
