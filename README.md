@@ -1,2 +1,6 @@
-# open-xml-dll-CastelliLuca
-open-xml-dll-CastelliLuca created by GitHub Classroom
+# OpenXML di CastelliLuca
+> Progetto per la gestione e la creazione di un documento word
+
+## classi utlizzate:
+> ClsOpenXmlUtilities.cs
+> DocumentFormat
