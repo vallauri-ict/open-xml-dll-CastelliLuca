@@ -4,3 +4,5 @@
 ## classi utlizzate:
 > ClsOpenXmlUtilities.cs
 > DocumentFormat
+
+# autore:CastelliLuca
